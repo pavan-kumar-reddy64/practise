@@ -1,2 +1,6 @@
  this is first line in practise repo
+<<<<<<< HEAD
 made changes from local machine
+=======
+made changes from github.com
+>>>>>>> 10c141a268cbba143f03f9bbdf28aa5b073fea00
