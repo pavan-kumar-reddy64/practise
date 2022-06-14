@@ -1,2 +1,6 @@
  this is first line after push in main branch
+<<<<<<< HEAD
 this is updated line from terminal
+=======
+this is updated line from git hub
+>>>>>>> ffa47e2918312393cef499b041be2ac4df8d5fc1
